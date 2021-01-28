@@ -1,4 +1,4 @@
-from selenium import webdriver
+from import webdriver
 import os
 from webdriver_manager.chrome import ChromeDriverManager #1st changer
 def banner():
